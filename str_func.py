@@ -14,3 +14,5 @@ def _title(string):
     :return: возвразает строку в преобразованном виде
     """
     return string.title()
+
+#Сымитировал фикс бага
